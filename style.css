@@ -13,3 +13,17 @@ canvas {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+div.actions {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+
+    display: flex;
+    align-items: center;
+}
+
+input {
+    width: 100px;
+    margin-left: 5px;
+}
